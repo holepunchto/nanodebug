@@ -1,0 +1,24 @@
+{
+  "name": "nanodebug",
+  "version": "0.0.0",
+  "description": "A tiny, zero overhead debugging utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && brittle test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypercore-skunkworks/nanodebug.git"
+  },
+  "author": "Kasper Isager Dalsgarð <kasper@funktionel.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypercore-skunkworks/nanodebug/issues"
+  },
+  "homepage": "https://github.com/hypercore-skunkworks/nanodebug#readme",
+  "devDependencies": {
+    "brittle": "^1.3.5",
+    "nanobench": "^2.1.1",
+    "standard": "^16.0.3"
+  }
+}
