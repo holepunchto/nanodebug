@@ -41,4 +41,4 @@ Now, `debug` will instead log to stdout using `console.log`.
 
 ## License
 
-ISC
+Apache 2.0
